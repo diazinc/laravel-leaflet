@@ -1,0 +1,76 @@
+html, body
+{
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    background-color: forestgreen;
+}
+.navbar {
+    margin-bottom: 0;
+    background-color: #2d2d30;
+    border: 0;
+    font-size: 16px !important;
+    letter-spacing: 4px;
+    opacity:0.9;
+}
+.navbar li a, .navbar .navbar-brand { 
+    color: #d5d5d5 !important;
+}
+.navbar-nav li a:hover {
+    color: #fff !important;
+}
+.navbar-nav li.active a {
+    color: #fff !important;
+    background-color:#29292c !important;
+}
+.navbar-default .navbar-toggle {
+    border-color: transparent;
+}
+.open .dropdown-toggle {
+    color: #fff ;
+    background-color: #555 !important;
+}
+.dropdown-menu li a {
+    color: #000 !important;
+}
+.dropdown-menu li a:hover {
+    background-color: red !important;
+}
+.main-content
+{
+    position: absolute;
+    top: 50px;
+    width: 100%;
+}
+h2
+{
+    font: 400 50px/1.8 Montserrat, sans-serif;
+    color: #f5f5f5;
+}
+#map
+{
+    height: 500px; 
+}
+.content
+{
+    width: 100%;
+    padding-top: 30px;
+}
+form
+{
+    display: inline-block;
+    width: 100%;
+    padding: 20px 20px 0;
+}
+table
+{
+    width: 100%;
+}
+input, label, td, th
+{
+    font-size: 18px;
+}
+td
+{
+    padding: 5px 0;
+}
