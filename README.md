@@ -1,4 +1,4 @@
-# angular-laravel-leaflet
+# Leaflet demo using Laravel and AngularJS
 This is a map application that I built using AngularJS, Leaflet.js and Laravel Framework.
 
 # User Guide
